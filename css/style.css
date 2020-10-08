@@ -1,0 +1,23 @@
+/* #main {
+  height: 100vh;
+} */
+
+h1 {
+  font-weight: bold;
+}
+
+#cardHeader {
+  font-size: 1rem;
+}
+
+#mainContainer {
+  max-height: 90%;
+}
+
+#bigContainer {
+  width: 95%;
+}
+
+/* #footer {
+  bottom: 0;
+} */
